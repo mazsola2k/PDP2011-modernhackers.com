@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="top">
+		<CBX_INST_ENTRY INSTANCE_NAME="|top|unibus:pdp11|m9312h:bootrom1|altsyncram:memo_rtl_0" CBX_FILE_NAME="altsyncram_5l61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top|unibus:pdp11|rh11:rh0|sdspi:sd1|altsyncram:rsector_rtl_0" CBX_FILE_NAME="altsyncram_1sd1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top|pll:pll0|altpll:altpll_component" CBX_FILE_NAME="pll_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top|unibus:pdp11|cpu:cpu0|lpm_mult:Mult0" CBX_FILE_NAME="mult_36t.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top|unibus:pdp11|m9312l:bootrom0|altsyncram:meme_rtl_0" CBX_FILE_NAME="altsyncram_kj61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top|unibus:pdp11|m9312l:bootrom0|altsyncram:memo_rtl_0" CBX_FILE_NAME="altsyncram_lj61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top|unibus:pdp11|rh11:rh0|sdspi:sd1|altsyncram:wsector_rtl_0" CBX_FILE_NAME="altsyncram_lie1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top|unibus:pdp11|xu:xu0|xubr:xubr0|altsyncram:meme_rtl_0" CBX_FILE_NAME="altsyncram_4hc1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top|unibus:pdp11|xu:xu0|xubr:xubr0|altsyncram:memo_rtl_0" CBX_FILE_NAME="altsyncram_5hc1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top|unibus:pdp11|m9312h:bootrom1|altsyncram:meme_rtl_0" CBX_FILE_NAME="altsyncram_4l61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|top|unibus:pdp11|rh11:rh0|sdspi:sd1|altsyncram:wsector_rtl_1" CBX_FILE_NAME="altsyncram_lie1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

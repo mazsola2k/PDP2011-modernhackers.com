@@ -1,0 +1,87 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+# File: D:\FPGA\Altera\quartus-13.0\pdp11-20190702\pdp11\de1-de0n-port\de1.csv
+# Generated on: Sat Aug 24 21:45:08 2019
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,I/O Standard,Reserved,Current Strength,Differential Pair
+clkin,Input,PIN_L1,2,B2_N1,,,,
+cts1,Input,,,,,,,
+cts2,Input,,,,,,,
+dram_addr[12],Output,,,,,,,
+dram_addr[11],Output,PIN_N6,1,B1_N0,,,,
+dram_addr[10],Output,PIN_W3,1,B1_N1,,,,
+dram_addr[9],Output,PIN_N4,1,B1_N0,,,,
+dram_addr[8],Output,PIN_P3,1,B1_N0,,,,
+dram_addr[7],Output,PIN_P5,1,B1_N0,,,,
+dram_addr[6],Output,PIN_P6,1,B1_N0,,,,
+dram_addr[5],Output,PIN_R5,1,B1_N1,,,,
+dram_addr[4],Output,PIN_R6,1,B1_N1,,,,
+dram_addr[3],Output,PIN_Y4,1,B1_N1,,,,
+dram_addr[2],Output,PIN_Y3,1,B1_N1,,,,
+dram_addr[1],Output,PIN_W5,1,B1_N1,,,,
+dram_addr[0],Output,PIN_W4,1,B1_N1,,,,
+dram_ba_0,Output,PIN_U3,1,B1_N1,,,,
+dram_ba_1,Output,PIN_V4,1,B1_N1,,,,
+dram_cas_n,Output,PIN_T3,1,B1_N1,,,,
+dram_cke,Output,PIN_N3,1,B1_N0,,,,
+dram_clk,Output,PIN_U4,1,B1_N1,,,,
+dram_cs_n,Output,PIN_T6,1,B1_N1,,,,
+dram_dq[15],Bidir,PIN_T2,1,B1_N0,,,,
+dram_dq[14],Bidir,PIN_T1,1,B1_N0,,,,
+dram_dq[13],Bidir,PIN_R2,1,B1_N0,,,,
+dram_dq[12],Bidir,PIN_R1,1,B1_N0,,,,
+dram_dq[11],Bidir,PIN_P2,1,B1_N0,,,,
+dram_dq[10],Bidir,PIN_P1,1,B1_N0,,,,
+dram_dq[9],Bidir,PIN_N2,1,B1_N0,,,,
+dram_dq[8],Bidir,PIN_N1,1,B1_N0,,,,
+dram_dq[7],Bidir,PIN_Y2,1,B1_N1,,,,
+dram_dq[6],Bidir,PIN_Y1,1,B1_N1,,,,
+dram_dq[5],Bidir,PIN_W2,1,B1_N1,,,,
+dram_dq[4],Bidir,PIN_W1,1,B1_N1,,,,
+dram_dq[3],Bidir,PIN_V2,1,B1_N1,,,,
+dram_dq[2],Bidir,PIN_V1,1,B1_N1,,,,
+dram_dq[1],Bidir,PIN_U2,1,B1_N1,,,,
+dram_dq[0],Bidir,PIN_U1,1,B1_N1,,,,
+dram_ldqm,Output,PIN_R7,1,B1_N0,,,,
+dram_ras_n,Output,PIN_T5,1,B1_N1,,,,
+dram_udqm,Output,PIN_M5,1,B1_N0,,,,
+dram_we_n,Output,PIN_R8,1,B1_N0,,,,
+greenled[7],Output,PIN_Y21,6,B6_N1,,,,
+greenled[6],Output,PIN_Y22,6,B6_N1,,,,
+greenled[5],Output,PIN_W21,6,B6_N1,,,,
+greenled[4],Output,PIN_W22,6,B6_N1,,,,
+greenled[3],Output,PIN_V21,6,B6_N1,,,,
+greenled[2],Output,PIN_V22,6,B6_N1,,,,
+greenled[1],Output,PIN_U21,6,B6_N1,,,,
+greenled[0],Output,PIN_U22,6,B6_N1,,,,
+key0,Input,PIN_R22,6,B6_N0,,,,
+key1,Input,,,,,,,
+rts1,Output,,,,,,,
+rts2,Output,,,,,,,
+rx1,Input,PIN_F14,4,B4_N1,,,,
+rx2,Input,,,,,,,
+sdcard_cs,Output,PIN_U20,6,B6_N1,,,,
+sdcard_miso,Input,PIN_W20,6,B6_N1,,,,
+sdcard_mosi,Output,PIN_Y20,6,B6_N1,,,,
+sdcard_sclk,Output,PIN_V20,6,B6_N1,,,,
+tx1,Output,PIN_G12,4,B4_N1,,,,
+tx2,Output,,,,,,,
+xu_cs,Output,PIN_H18,5,B5_N0,,,,
+xu_miso,Input,PIN_N22,6,B6_N0,,,,
+xu_mosi,Output,PIN_G18,5,B5_N0,,,,
+xu_sclk,Output,PIN_P17,6,B6_N0,,,,

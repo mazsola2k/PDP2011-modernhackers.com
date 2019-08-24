@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'cpuclk'
+Slack : -42.331
+TNS   : -141499.381
+
+Type  : Slow Model Setup 'pll0|altpll_component|pll|clk[0]'
+Slack : -39.957
+TNS   : -3494.318
+
+Type  : Slow Model Setup 'unibus:pdp11|rh11:rh0|sdspi:sd1|clk'
+Slack : -5.037
+TNS   : -808.848
+
+Type  : Slow Model Setup 'clkin'
+Slack : -2.363
+TNS   : -243.384
+
+Type  : Slow Model Hold 'cpuclk'
+Slack : -0.406
+TNS   : -1.440
+
+Type  : Slow Model Hold 'pll0|altpll_component|pll|clk[0]'
+Slack : 0.051
+TNS   : 0.000
+
+Type  : Slow Model Hold 'clkin'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow Model Hold 'unibus:pdp11|rh11:rh0|sdspi:sd1|clk'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'cpuclk'
+Slack : -2.064
+TNS   : -10076.016
+
+Type  : Slow Model Minimum Pulse Width 'unibus:pdp11|rh11:rh0|sdspi:sd1|clk'
+Slack : -2.064
+TNS   : -411.234
+
+Type  : Slow Model Minimum Pulse Width 'pll0|altpll_component|pll|clk[0]'
+Slack : 2.460
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clkin'
+Slack : 8.889
+TNS   : 0.000
+
+Type  : Fast Model Setup 'pll0|altpll_component|pll|clk[0]'
+Slack : -16.253
+TNS   : -1419.085
+
+Type  : Fast Model Setup 'cpuclk'
+Slack : -15.650
+TNS   : -50982.148
+
+Type  : Fast Model Setup 'unibus:pdp11|rh11:rh0|sdspi:sd1|clk'
+Slack : -1.665
+TNS   : -210.755
+
+Type  : Fast Model Setup 'clkin'
+Slack : -0.475
+TNS   : -13.561
+
+Type  : Fast Model Hold 'cpuclk'
+Slack : -1.053
+TNS   : -252.214
+
+Type  : Fast Model Hold 'clkin'
+Slack : -0.668
+TNS   : -37.588
+
+Type  : Fast Model Hold 'pll0|altpll_component|pll|clk[0]'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'unibus:pdp11|rh11:rh0|sdspi:sd1|clk'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'cpuclk'
+Slack : -1.880
+TNS   : -8212.864
+
+Type  : Fast Model Minimum Pulse Width 'unibus:pdp11|rh11:rh0|sdspi:sd1|clk'
+Slack : -1.880
+TNS   : -355.240
+
+Type  : Fast Model Minimum Pulse Width 'pll0|altpll_component|pll|clk[0]'
+Slack : 2.571
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'clkin'
+Slack : 9.000
+TNS   : 0.000
+
+------------------------------------------------------------
